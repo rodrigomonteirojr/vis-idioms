@@ -33,5 +33,3 @@ v2 - Fri Apr 24 12:52:41 -03 2026:
 	avoiding problems with multiple ocurrences of the
 	pattern. This fits my usage more specifically, so i also
 	altered the title.
-
-# vis-idioms
