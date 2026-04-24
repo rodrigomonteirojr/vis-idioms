@@ -17,9 +17,9 @@ v2 - Fri Apr 24 12:36:49 -03 2026 (rodrigo.monteiro.tech@gmail.com):
 	substitute '-+ a' for '+- i'.
 
 
-## Add prefix to the first match of <pat2> in every line containing <pat>
+## Add prefix to the first match of `pat2` in every line containing `pat`
 
-~~Add prefix to the every match of <pat2> in every line containing <pat>~~
+~~Add prefix to the every match of `pat2` in every line containing `pat`~~
 
 v1 - CREATION:
 
